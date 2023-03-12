@@ -6,10 +6,10 @@ Challenges:
 1. Warm Up Basic Math (easy) - beginner challenge that tested foundations of coding, such as loops, simple algorithms, etc.
 2. Fibonacci 48 (easy) - recursion/loop
 3. Denis 1 (medium) - simplyifying fractions
-4. Fourier TransformationTM (medium) - Base transformations
-5. Ready SET Go (medium) - TreeSet manipulation
-6. Counting Islands 1 (medium) - Depth first search
-7. Trail of Primes (hard) - Breadth first search
-8. Fastest Flight (hard) - Dijkstra's algorithm
+4. Fourier TransformationTM (medium) - base transformations
+5. Ready SET Go (medium) - treeSet manipulation
+6. Counting Islands 1 (medium) - depth first search
+7. Trail of Primes (hard) - breadth first search
+8. Fastest Flight (hard) - dijkstra's algorithm
 
 Special thanks to the Hebron Computer Science and UIL Competition Club president Ravi Shah for this opportunity.
