@@ -12,3 +12,4 @@ Challenges:
 7. Trail of Primes (hard) - Breadth first search
 8. Fastest Flight (hard) - Dijkstra's algorithm
 
+Special thanks to the Hebron Computer Science and UIL Competition Club president Ravi Shah for this opportunity.
