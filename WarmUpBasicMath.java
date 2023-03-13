@@ -3,7 +3,7 @@ import java.util.*;
 import java.lang.Math.*;
 import java.text.DecimalFormat;
 
-public class Solution {
+public class WarmUpBasicMath {
 
 
     public static void main(String[] args) {
