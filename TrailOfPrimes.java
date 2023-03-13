@@ -149,13 +149,13 @@ public class TrailOfPrimes {
    {
 
 
-       Scanner scan = new Scanner(System.in);
+       Scanner key = new Scanner(System.in);
 
 
 
 
-       int N1 = scan.nextInt();
-       int N2 = scan.nextInt();
+       int N1 = key.nextInt();
+       int N2 = key.nextInt();
 
 
 
