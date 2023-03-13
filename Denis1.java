@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Denis
+public class Denis1
 {
 
 
