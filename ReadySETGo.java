@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class Solution {
+public class ReadySETGo{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
