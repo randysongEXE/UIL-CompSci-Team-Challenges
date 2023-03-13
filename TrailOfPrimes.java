@@ -8,7 +8,7 @@ public class TrailOfPrimes {
 
 
 
-   Solution(int y)
+   TrailOfPrimes(int y)
    {
        this.X = y;
        list = new LinkedList[y];
