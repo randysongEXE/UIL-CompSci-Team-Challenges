@@ -1,4 +1,4 @@
-# UILCompSciTeam-Challenges
+# UIL CompSciTeam Challenges
 This repository contains a series of problems that I solved in order to be selected for my school's UIL computer science team. These problems were custom-made by the 2023 Comp Sci Club president, and they presented a variety of different challenges requiring usage of numerous algorithms/searches, such as Dijkstra's algorithm, Breadth-first search, etc. All problems were solved with Java.
 
 Challenges:
