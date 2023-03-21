@@ -1,5 +1,5 @@
 # UIL CompSciTeam Challenges
-This repository contains a series of problems that I solved in order to be selected for my school's UIL computer science team. These problems were custom-made by the 2023 Comp Sci Club president/vice, and they presented a variety of different challenges requiring usage of numerous algorithms/searches, such as Dijkstra's algorithm, Breadth-first search, etc. All problems were solved with Java.
+This repository contains a series of problems that I solved in order to be selected for my school's UIL computer science team. These problems were created by the 2023 Comp Sci Club president/vice, and they presented a variety of different challenges requiring usage of numerous algorithms/searches, such as Dijkstra's algorithm, Breadth-first search, etc. All problems were solved with Java.
 
 Challenges:
 
@@ -12,4 +12,4 @@ Challenges:
 7. Trail of Primes (hard) - breadth first search
 8. Fastest Flight (hard) - dijkstra's algorithm
 
-Special thanks to the Hebron Computer Science and UIL Competition Club president Ravi Shah for this opportunity.
+Special thanks to the Hebron Computer Science and UIL Competition Club vice president Ravi Shah for this opportunity.
