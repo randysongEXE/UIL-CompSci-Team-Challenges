@@ -7,11 +7,11 @@ public class Fibonacci48 {
         
         
         Scanner scan = new Scanner(System.in);
-        int T = scan.nextInt();
-        scan.nextLine();
+        int T = key.nextInt();
+        key.nextLine();
         
         while(T-->0){
-            int n = scan.nextInt();
+            int n = ey.nextInt();
             System.out.println(n + " = " + findIndex(n-1));
         }
         
