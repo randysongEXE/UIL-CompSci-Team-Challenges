@@ -3,7 +3,7 @@ import java.util.TreeSet;
 
 public class ReadySETGo{
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner key = new Scanner(System.in);
 
         
         TreeSet<Integer> set1 = new TreeSet<>();
@@ -18,7 +18,7 @@ public class ReadySETGo{
 
       
         
-        String[] set2Array = input.nextLine().split(" ");
+        String[] set2Array = key.nextLine().split(" ");
         for (String element : set2Array) {
             set2.add(Integer.parseInt(element));
         }
