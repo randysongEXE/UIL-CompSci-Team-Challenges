@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class FourierTransformationTM {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int t = scanner.nextInt();
+        Scanner key = new Scanner(System.in);
+        int t = key.nextInt();
         while (t-- > 0) {
-            int n = scanner.nextInt();
+            int n = key.nextInt();
             int fouriest = 0, base = 0;
             for (int i = 2; i <= 36; i++) {
                 int count = 0, temp = n;
@@ -22,6 +22,6 @@ public class FourierTransformationTM {
             }
             System.out.printf("%d %s\n", base, Integer.toString(n, base).toUpperCase());
         }
-        scanner.close();
+    
     }
 }
