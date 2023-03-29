@@ -6,12 +6,12 @@ public class Fibonacci48 {
     public static void main(String[] args) {
         
         
-        Scanner scan = new Scanner(System.in);
+        Scanner key = new Scanner(System.in);
         int T = key.nextInt();
         key.nextLine();
         
         while(T-->0){
-            int n = ey.nextInt();
+            int n = key.nextInt();
             System.out.println(n + " = " + findIndex(n-1));
         }
         
