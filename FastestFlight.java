@@ -55,17 +55,17 @@ public class Airport {
         
         Map<Integer, Airport> airports = new HashMap<>();
         for (int i = 0; i < n; i++) {
-            int id = scanner.nextInt();
-            int x = scanner.nextInt();
-            int y = scanner.nextInt();
+            int id = key.nextInt();
+            int x = key.nextInt();
+            int y = key.nextInt();
             Airport airport = new Airport(id, x, y);
             airports.put(id, airport);
         }
 
         
         for (int i = 0; i < e; i++) {
-            int fromId = scanner.nextInt();
-            int toId = scanner.nextInt();
+            int fromId = key.nextInt();
+            int toId = key.nextInt();
             Airport from = airports.get(fromId);
             Airport to = airports.get(toId);
             Edge edge = new Edge(from, to);
